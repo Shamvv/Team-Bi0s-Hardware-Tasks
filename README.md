@@ -15,7 +15,7 @@ where 1 represents a turned on LED(glowing) and 0 represents turned off LED.
 <br>
 <h3>My output</h3><br>
 
-![ezgif-3-7e8da7c555](https://user-images.githubusercontent.com/88976526/163660816-a530d886-6ce1-4744-a1ed-b41ee52f76c2.gif)
+<img src="https://user-images.githubusercontent.com/88976526/163660816-a530d886-6ce1-4744-a1ed-b41ee52f76c2.gif" width="450" height="400">
 <br>
 <br>
 <h2>Challenge_2(dev_hack)</h2>
