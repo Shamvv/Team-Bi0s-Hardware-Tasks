@@ -34,4 +34,8 @@ Use a and b in https://www.tinkercad.com/things/i4zM833ITGZ.
 <h3><u>My output</u></h3>
 <h4>Finding a</h4>
 <img src="https://user-images.githubusercontent.com/88976526/163662870-02bab1a1-5b2b-473c-aff8-a74c9e45d62d.png" width="800" height="400">
-<b>∴ a = (10011110)<sub>10</sub> = 158</b>
+<b>∴ a = = (ABCD1110)<sub>10</sub> = (10011110)<sub>10</sub> = 158</b><br>
+
+<h4>Finding b</h4>
+<img src="https://user-images.githubusercontent.com/88976526/163663555-a2f99bc5-6191-403b-a3ea-e6694faf1f69.png" width="900" height="600">
+<b>∴ b = (EBXACDYZ)<sub>10</sub> = (11001110)<sub>10</sub> = 206</b>
