@@ -13,7 +13,7 @@ For ex:<br>
 
 where 1 represents a turned on LED(glowing) and 0 represents turned off LED.
 <br>
-<h3>My output</h3><br>
+<h3><u>My output</u></h3>
 
 <img src="https://user-images.githubusercontent.com/88976526/163660816-a530d886-6ce1-4744-a1ed-b41ee52f76c2.gif" width="450" height="400">
 <br>
@@ -31,7 +31,7 @@ Why don’t you try lighting up the bulb ? ;-)
 
 Use a and b in https://www.tinkercad.com/things/i4zM833ITGZ.
 
-<h3>My output</h3><br>
+<h3><u>My output</u></h3>
 <h4>Finding a</h4><br>
 <img src="https://user-images.githubusercontent.com/88976526/163662870-02bab1a1-5b2b-473c-aff8-a74c9e45d62d.png" width="800" height="400">
 ∴a = (10011110)<sub>10</sub> = 158
