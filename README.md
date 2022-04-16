@@ -21,12 +21,12 @@ where 1 represents a turned on LED(glowing) and 0 represents turned off LED.
 <h2>Challenge_2(dev_hack)</h2>
 Use the values obtained from below to find the flag.
 
-a= (ABCD1110)decimal
+<h4>a= (ABCD1110)decimal</h4>
 
 Why don’t you try lighting up the bulb ? ;-)
-![image](https://user-images.githubusercontent.com/88976526/163662570-7f4134c7-f894-4eb7-9a6c-2053cf4b356d.png)
+<img src="https://user-images.githubusercontent.com/88976526/163662570-7f4134c7-f894-4eb7-9a6c-2053cf4b356d.png" width="350" height="200">
 
-b= (EBXACDYZ)decimal
-![image](https://user-images.githubusercontent.com/88976526/163662591-8667e2e7-a4cd-464d-a2f5-a3c3439036cc.png)
+<h4>b= (EBXACDYZ)decimal</h4><br>
+<img src="https://user-images.githubusercontent.com/88976526/163662591-8667e2e7-a4cd-464d-a2f5-a3c3439036cc.png" width="350" height="300">
 
 Use a and b in https://www.tinkercad.com/things/i4zM833ITGZ.
