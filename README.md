@@ -39,3 +39,7 @@ Use a and b in https://www.tinkercad.com/things/i4zM833ITGZ.
 <h4>Finding b</h4>
 <img src="https://user-images.githubusercontent.com/88976526/163663555-a2f99bc5-6191-403b-a3ea-e6694faf1f69.png" width="800" height="500">
 <b>∴ b = (EBXACDYZ)<sub>2</sub> = (11001110)<sub>2</sub> = (206)<sub>10</sub></b>
+
+<h4>Using a and b to find the flag</h4>
+<img src="https://user-images.githubusercontent.com/88976526/163664635-4731e75a-04f5-4e33-ac35-c460b427bc16.gif" width="850" height="200">
+
