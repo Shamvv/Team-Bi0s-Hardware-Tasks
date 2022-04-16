@@ -30,3 +30,8 @@ Why don’t you try lighting up the bulb ? ;-)
 <img src="https://user-images.githubusercontent.com/88976526/163662591-8667e2e7-a4cd-464d-a2f5-a3c3439036cc.png" width="350" height="300">
 
 Use a and b in https://www.tinkercad.com/things/i4zM833ITGZ.
+
+<h3>My output</h3><br>
+<h4>Finding a</h4><br>
+<img src="https://user-images.githubusercontent.com/88976526/163662870-02bab1a1-5b2b-473c-aff8-a74c9e45d62d.png" width="800" height="400">
+∴a = (10011110)<sub>10</sub> = 158
