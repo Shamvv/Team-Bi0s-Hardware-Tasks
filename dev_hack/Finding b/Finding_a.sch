@@ -462,4 +462,4 @@ TEXT -13 74  #E
 TEXT 152 2  #X
 TEXT 152 37  #Y
 TEXT 152 72  #Z
-FFIG example.sch
+FFIG Finding_a.sch
