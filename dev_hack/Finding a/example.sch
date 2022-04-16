@@ -449,4 +449,4 @@ TEXT 1 -21  #A
 TEXT 36 -21  #B
 TEXT 71 -21  #C
 TEXT 106 -21  #D
-FFIG C:\Users\shamm\OneDrive\Desktop\Sem II\Digital Systems Lab\Export dsch2\example.sch
+FFIG C:\example.sch
