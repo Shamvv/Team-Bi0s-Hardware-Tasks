@@ -449,4 +449,4 @@ TEXT 1 -21  #A
 TEXT 36 -21  #B
 TEXT 71 -21  #C
 TEXT 106 -21  #D
-FFIG Finding_a
+FFIG Finding_a.sch
