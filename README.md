@@ -32,6 +32,6 @@ Why don’t you try lighting up the bulb ? ;-)
 Use a and b in https://www.tinkercad.com/things/i4zM833ITGZ.
 
 <h3><u>My output</u></h3>
-<h4>Finding a</h4><br>
+<h4>Finding a</h4>
 <img src="https://user-images.githubusercontent.com/88976526/163662870-02bab1a1-5b2b-473c-aff8-a74c9e45d62d.png" width="800" height="400">
-∴a = (10011110)<sub>10</sub> = 158
+<b>∴ a = (10011110)<sub>10</sub> = 158</b>
